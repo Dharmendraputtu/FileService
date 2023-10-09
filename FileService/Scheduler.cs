@@ -115,14 +115,7 @@ namespace FileService
             catch
             {
             }
-            //string path = "C:\\ServiceLog.txt";
-            //using (StreamWriter writer = new StreamWriter(path, true))
-            //{
-            //    sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "\\LogFile.txt", true);
-
-            //    writer.WriteLine(string.Format(text, DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss tt")));
-            //    writer.Close();
-            //}
+            
         }
     }
 }
